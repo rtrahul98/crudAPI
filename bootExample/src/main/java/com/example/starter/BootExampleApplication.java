@@ -2,7 +2,7 @@ package com.example.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication; 
-//Sprint boot Mmain class
+//Sprint boot Mmmain class
 @SpringBootApplication
 public class BootExampleApplication {
 
